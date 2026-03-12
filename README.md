@@ -28,7 +28,7 @@
 - 💻 Interested in **AI, Web Development, and Networking**
 - 🌱 Currently learning **Blockchain and Backend Development**
 - 🚀 Passionate about building impactful projects and solving real-world problems
-- 📫 Reach me at: **gokul.g2023@vitstudent.ac.in**
+- 📫 Reach me at: **gokulrajeshkumar1063@gmail.com**
 
 ---
 
@@ -56,9 +56,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gokul007&show_icons=true&theme=radical" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gokul1063&show_icons=true&theme=radical" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul007&layout=compact&theme=radical" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul1063&layout=compact&theme=radical" height="150"/>
 
 </p>
 
@@ -68,7 +68,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=gokul007&theme=radical" />
+<img src="https://streak-stats.demolab.com/?user=gokul1063&theme=radical" />
 
 </p>
 
@@ -81,12 +81,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </p>
-
----
-
-## 🏆 Achievements
-
-- 📜 **IBM Certification — Generative AI**
 
 ---
 
