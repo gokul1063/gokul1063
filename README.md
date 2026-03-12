@@ -5,7 +5,7 @@
 <p align="center">
 
 <!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=c,c++,golang,java,python,javascript" />
 <br>
 
 <!-- AI / ML -->
