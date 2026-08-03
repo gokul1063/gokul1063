@@ -75,6 +75,16 @@
 </pre>
 
 <pre style="margin:0;font-family:inherit;font-size:inherit;white-space:pre-wrap;line-height:1.6;">
+<span style="color:#e6edf3;">gokul@linux:~/work$</span> ./contrib --color=blue --year=2026
+</pre>
+
+<p align="center">
+
+<img src="assets/contrib.svg" alt="contributions" width="759"/>
+
+</p>
+
+<pre style="margin:0;font-family:inherit;font-size:inherit;white-space:pre-wrap;line-height:1.6;">
 <span style="color:#e6edf3;">gokul@linux:~/work$</span> cat ~/contact.txt
 <span style="color:#58a6ff;">email:      </span><a href="mailto:gokulrajeshkumar1063@gmail.com" style="color:#e6edf3;">gokulrajeshkumar1063@gmail.com</a>
 <span style="color:#58a6ff;">linkedin:   </span><a href="https://www.linkedin.com/in/gokulrajeshkumar1063/" style="color:#e6edf3;">linkedin.com/in/gokulrajeshkumar1063</a>
