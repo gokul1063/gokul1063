@@ -46,8 +46,6 @@
 <span style="color:#58a6ff;">│   ├── linux</span>
 <span style="color:#58a6ff;">│   ├── tui / cli tooling</span>
 <span style="color:#58a6ff;">│   └── git</span>
-<span style="color:#58a6ff;">├──</span> <span style="color:#e6edf3;">cp</span>
-<span style="color:#58a6ff;">│   └── leetcode (c++)</span>
 <span style="color:#58a6ff;">└──</span> <span style="color:#e6edf3;">ai-ml</span>
 <span style="color:#58a6ff;">    ├── tensorflow</span>
 <span style="color:#58a6ff;">    ├── pytorch</span>
