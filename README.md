@@ -46,6 +46,8 @@
 <span style="color:#58a6ff;">│   ├── linux</span>
 <span style="color:#58a6ff;">│   ├── tui / cli tooling</span>
 <span style="color:#58a6ff;">│   └── git</span>
+<span style="color:#58a6ff;">├──</span> <span style="color:#e6edf3;">cp</span>
+<span style="color:#58a6ff;">│   └── leetcode (c++)</span>
 <span style="color:#58a6ff;">└──</span> <span style="color:#e6edf3;">ai-ml</span>
 <span style="color:#58a6ff;">    ├── tensorflow</span>
 <span style="color:#58a6ff;">    ├── pytorch</span>
@@ -68,16 +70,6 @@
 <span style="color:#58a6ff;">- tuning Linux and collecting ASCII art</span>
 <span style="color:#58a6ff;">- going down rabbit holes about how things work underneath</span>
 </pre>
-
-<pre style="margin:0;font-family:inherit;font-size:inherit;white-space:pre-wrap;line-height:1.6;">
-<span style="color:#e6edf3;">gokul@linux:~/work$</span> ./contrib --color=blue --year=2026
-</pre>
-
-<p align="center">
-
-<img src="assets/contrib.svg" alt="contributions" width="759"/>
-
-</p>
 
 <pre style="margin:0;font-family:inherit;font-size:inherit;white-space:pre-wrap;line-height:1.6;">
 <span style="color:#e6edf3;">gokul@linux:~/work$</span> cat ~/contact.txt
