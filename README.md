@@ -1,72 +1,58 @@
-```
+<div align="center">
+
+<pre style="color:#58a6ff;font-family:monospace;font-weight:bold;line-height:1.15;margin:0;">
    __________  __ ____  ____ 
   / ____/ __ \/ //_/ / / / / 
  / / __/ / / / ,< / / / / /  
 / /_/ / /_/ / /| / /_/ / /___
 \____/\____/_/ |_\____/_____/
                              
-```
+</pre>
 
-**Gokul** — Systems & Backend Engineer
+<img src="assets/terminal.svg" alt="terminal" width="640"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-gokul.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulrajeshkumar1063/)
-[![Email](https://img.shields.io/badge/Email-23272D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulrajeshkumar1063@gmail.com)
+</div>
 
-![terminal](assets/terminal.svg)
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:8px;padding:18px 22px;font-family:'JetBrains Mono','Fira Code',monospace;color:#c9d1d9;overflow:hidden;">
 
----
+<pre style="margin:0;font-family:inherit;white-space:pre-wrap;line-height:1.6;">
+<span style="color:#58a6ff;">gokul@linux:~/work$</span> whoami
+<span style="color:#8b949e;">gokul</span>
 
-## About
+<span style="color:#58a6ff;">gokul@linux:~/work$</span> cat ~/about.txt
+Third-year <span style="color:#e6edf3;">B.Tech Computer Science</span> student who prefers going deep — systems programming in <span style="color:#e6edf3;">C/C++</span>, backend services in <span style="color:#e6edf3;">Go</span> and <span style="color:#e6edf3;">Java</span>, and developer tooling. Linux daily driver, TUI over GUI. When the terminal is closed, I am reading manhwa and web novels.
 
-Third-year B.Tech Computer Science student who prefers going deep — systems programming in **C/C++**, backend services in **Go** and **Java**, and developer tooling. Linux daily driver, TUI over GUI. When the terminal is closed, I'm reading manhwa and web novels.
+<span style="color:#58a6ff;">gokul@linux:~/work$</span> cat ~/skills.txt
+languages:   C    C++    Go    Java    Python    TypeScript    JavaScript
+backend:     Go (Cobra, stdlib)    Express.js    Spring Boot
+frontend:    React    TypeScript
+systems:     Linux    TUI/CLI tooling    Git    GitHub Actions
+ai/ml:       TensorFlow    PyTorch    scikit-learn    Streamlit
 
----
+<span style="color:#58a6ff;">gokul@linux:~/work$</span> ls ~/projects/
+<a href="https://github.com/gokul1063/Gcode" style="color:#79c0ff;">Gcode/</a>                AI coding assistant with vim, LSP and MCP          (Go)
+<a href="https://github.com/gokul1063/java-server" style="color:#79c0ff;">java-server/</a>          video streaming, proxy caching, TCP congestion       (Java)
+<a href="https://github.com/gokul1063/hotreload" style="color:#79c0ff;">hotreload/</a>            watch files, rebuild + restart your server           (Go)
+<a href="https://github.com/gokul1063/micro" style="color:#79c0ff;">micro/</a>                low-level systems experiments                        (C)
+<a href="https://github.com/gokul1063/mechanicalKeyboard" style="color:#79c0ff;">mechanicalKeyboard/</a>   global keystroke sound simulation                   (C)
+<a href="https://github.com/gokul1063/uuid-ts" style="color:#79c0ff;">uuid-ts/</a>              snowflake ID generator for distributed systems       (TypeScript)
+<a href="https://github.com/gokul1063/gitCloner" style="color:#79c0ff;">gitCloner/</a>            git history analyzer, rebuild a repo commit-by-commit (Go)
+<a href="https://github.com/gokul1063/Leetcode_Solutions" style="color:#79c0ff;">Leetcode_Solutions/</a>   competitive programming solutions                     (C++)
+</pre>
 
-## Tech Stack
+<pre style="margin:0;font-family:inherit;white-space:pre-wrap;line-height:1.6;">
+<span style="color:#58a6ff;">gokul@linux:~/work$</span> cat ~/currently.txt
+- building distributed systems and backend services
+- exploring blockchain, LSPs and compiler tooling
+- writing TUIs instead of websites
 
-| Category  | Stack |
-| ---       | --- |
-| Languages | C, C++, Go, Java, Python, TypeScript, JavaScript |
-| Backend   | Go (Cobra, stdlib), Express.js, Spring Boot |
-| Frontend  | React, TypeScript |
-| Systems   | Linux, TUI/CLI tooling, Git, GitHub Actions |
-| AI/ML     | TensorFlow, PyTorch, scikit-learn, Streamlit |
+<span style="color:#58a6ff;">gokul@linux:~/work$</span> cat ~/interests.txt
+- reading web novels and manhwa
+- tuning Linux and collecting ASCII art
+- going down rabbit holes about how things work underneath
 
----
-
-## Projects
-
-| Project | Description | Stack |
-| ---     | --- | --- |
-| [Gcode](https://github.com/gokul1063/Gcode) | Modular AI coding assistant with vim editing, LSP and MCP support | Go |
-| [java-server](https://github.com/gokul1063/java-server) | Video streaming platform with proxy caching and TCP congestion control (AIMD) | Java |
-| [hotreload](https://github.com/gokul1063/hotreload) | CLI that watches source files and rebuilds + restarts your server | Go |
-| [micro](https://github.com/gokul1063/micro) | Low-level systems experiments in C | C |
-| [mechanicalKeyboard](https://github.com/gokul1063/mechanicalKeyboard) | Global keystroke hook that plays mechanical key sounds | C |
-| [uuid-ts](https://github.com/gokul1063/uuid-ts) | Dependency-free Snowflake ID generator for distributed systems | TypeScript |
-| [gitCloner](https://github.com/gokul1063/gitCloner) | Git history analyzer that reconstructs a repo commit-by-commit | Go |
-| [Leetcode_Solutions](https://github.com/gokul1063/Leetcode_Solutions) | Competitive programming solutions | C++ |
-
----
-
-## Currently
-
-- Building distributed systems and backend services
-- Exploring blockchain, LSPs and compiler tooling
-- Writing TUIs instead of websites
-
----
-
-## Beyond the Code
-
-- Reading web novels and manhwa
-- Tuning Linux and collecting ASCII art
-- Going down rabbit holes about how things work underneath
-
----
-
-## Stats
+<span style="color:#58a6ff;">gokul@linux:~/work$</span> ./github-stats
+</pre>
 
 <p align="center">
 
@@ -75,6 +61,13 @@ Third-year B.Tech Computer Science student who prefers going deep — systems pr
 
 </p>
 
----
+<pre style="margin:0;font-family:inherit;white-space:pre-wrap;line-height:1.6;">
+<span style="color:#58a6ff;">gokul@linux:~/work$</span> cat ~/contact.txt
+email:      <a href="mailto:gokulrajeshkumar1063@gmail.com" style="color:#79c0ff;">gokulrajeshkumar1063@gmail.com</a>
+linkedin:   <a href="https://www.linkedin.com/in/gokulrajeshkumar1063/" style="color:#79c0ff;">linkedin.com/in/gokulrajeshkumar1063</a>
+portfolio:  <a href="https://portfolio-gokul.netlify.app/" style="color:#79c0ff;">portfolio-gokul.netlify.app</a>
 
-*Minimal. Fast. Unix-pilled.*
+<span style="color:#58a6ff;">gokul@linux:~/work$</span> <span style="color:#c9d1d9;">█</span>
+</pre>
+
+</div>

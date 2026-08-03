@@ -1,22 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="200" viewBox="0 0 620 200" role="img" aria-label="terminal">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200" role="img" aria-label="terminal">
   <defs>
     <style>
       .term { font-family: "JetBrains Mono", "Fira Code", "SFMono-Regular", Consolas, monospace; }
-      .p    { fill: #3fb950; }
+      .p    { fill: #58a6ff; }
       .c    { fill: #c9d1d9; }
       .o    { fill: #8b949e; }
-      .ok   { fill: #3fb950; }
-      .acc  { fill: #58a6ff; }
     </style>
   </defs>
 
-  <rect x="0" y="0" width="620" height="200" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-  <rect x="0" y="0" width="620" height="26" rx="8" fill="#161b22"/>
-  <rect x="0" y="13" width="620" height="13" fill="#161b22"/>
-  <circle cx="17" cy="13" r="5" fill="#ff5f56"/>
-  <circle cx="36" cy="13" r="5" fill="#ffbd2e"/>
-  <circle cx="55" cy="13" r="5" fill="#27c93f"/>
-  <text x="70" y="17" class="term o" font-size="12">gokul@linux: ~</text>
+  <rect x="0" y="0" width="640" height="200" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <rect x="0" y="0" width="640" height="26" rx="8" fill="#161b22"/>
+  <rect x="0" y="13" width="640" height="13" fill="#161b22"/>
+  <rect x="0" y="25" width="640" height="2" fill="#58a6ff"/>
+  <text x="16" y="17" class="term o" font-size="12">gokul@linux: ~</text>
+  <text x="624" y="17" class="term o" font-size="12" text-anchor="end">bash</text>
 
   <g>
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.03;0.04;0.94;1" dur="14s" repeatCount="indefinite"/>
@@ -37,7 +34,7 @@
 
   <g>
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.27;0.28;0.94;1" dur="14s" repeatCount="indefinite"/>
-    <text x="16" y="120" class="term ok" font-size="14">[OK] compiled in 0.41s</text>
+    <text x="16" y="120" class="term p" font-size="14">[OK] compiled in 0.41s</text>
   </g>
 
   <g>
@@ -48,7 +45,7 @@
 
   <g>
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.45;0.46;0.94;1" dur="14s" repeatCount="indefinite"/>
-    <text x="16" y="168" class="term acc" font-size="14" font-weight="bold">Systems &amp; Backend Engineer</text>
+    <text x="16" y="168" class="term p" font-size="14" font-weight="bold">Systems &amp; Backend Engineer</text>
   </g>
 
   <g>
