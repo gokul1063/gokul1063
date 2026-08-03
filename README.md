@@ -22,12 +22,31 @@
 <span style="color:#e6edf3;">gokul@linux:~/work$</span> cat ~/about.txt
 <span style="color:#58a6ff;">Third-year <span style="color:#e6edf3;">B.Tech Computer Science</span> student who prefers going deep — systems programming in <span style="color:#e6edf3;">C/C++</span>, backend services in <span style="color:#e6edf3;">Go</span> and <span style="color:#e6edf3;">Java</span>, and developer tooling. Linux daily driver, TUI over GUI. When the terminal is closed, I am reading manhwa and web novels.</span>
 
-<span style="color:#e6edf3;">gokul@linux:~/work$</span> cat ~/skills.txt
-<span style="color:#58a6ff;">languages:   C    C++    Go    Java    Python    TypeScript    JavaScript</span>
-<span style="color:#58a6ff;">backend:     Go (Cobra, stdlib)    Express.js    Spring Boot</span>
-<span style="color:#58a6ff;">frontend:    React    TypeScript</span>
-<span style="color:#58a6ff;">systems:     Linux    TUI/CLI tooling    Git    GitHub Actions</span>
-<span style="color:#58a6ff;">ai/ml:       TensorFlow    PyTorch    scikit-learn    Streamlit</span>
+<span style="color:#e6edf3;">gokul@linux:~/work$</span> tree ~/stack
+<span style="color:#58a6ff;">.</span>
+<span style="color:#58a6ff;">├──</span> <span style="color:#e6edf3;">languages</span>
+<span style="color:#58a6ff;">│   ├── c</span>
+<span style="color:#58a6ff;">│   ├── c++</span>
+<span style="color:#58a6ff;">│   ├── go</span>
+<span style="color:#58a6ff;">│   ├── java</span>
+<span style="color:#58a6ff;">│   ├── python</span>
+<span style="color:#58a6ff;">│   ├── typescript</span>
+<span style="color:#58a6ff;">│   └── javascript</span>
+<span style="color:#58a6ff;">├──</span> <span style="color:#e6edf3;">backend</span>
+<span style="color:#58a6ff;">│   ├── go (stdlib, cobra)</span>
+<span style="color:#58a6ff;">│   ├── express.js</span>
+<span style="color:#58a6ff;">│   └── spring boot</span>
+<span style="color:#58a6ff;">├──</span> <span style="color:#e6edf3;">frontend</span>
+<span style="color:#58a6ff;">│   └── react</span>
+<span style="color:#58a6ff;">├──</span> <span style="color:#e6edf3;">systems</span>
+<span style="color:#58a6ff;">│   ├── linux</span>
+<span style="color:#58a6ff;">│   ├── tui / cli tooling</span>
+<span style="color:#58a6ff;">│   └── git</span>
+<span style="color:#58a6ff;">└──</span> <span style="color:#e6edf3;">ai-ml</span>
+<span style="color:#58a6ff;">    ├── tensorflow</span>
+<span style="color:#58a6ff;">    ├── pytorch</span>
+<span style="color:#58a6ff;">    ├── scikit-learn</span>
+<span style="color:#58a6ff;">    └── streamlit</span>
 
 <span style="color:#e6edf3;">gokul@linux:~/work$</span> ls ~/projects/
 <a href="https://github.com/gokul1063/Gcode" style="color:#e6edf3;">Gcode/</a>                <span style="color:#58a6ff;">AI coding assistant with vim, LSP and MCP          (Go)</span>
@@ -50,16 +69,7 @@
 <span style="color:#58a6ff;">- reading web novels and manhwa</span>
 <span style="color:#58a6ff;">- tuning Linux and collecting ASCII art</span>
 <span style="color:#58a6ff;">- going down rabbit holes about how things work underneath</span>
-
-<span style="color:#e6edf3;">gokul@linux:~/work$</span> ./github-stats
 </pre>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul1063&layout=compact&theme=radical" height="150"/>
-<img src="https://streak-stats.demolab.com/?user=gokul1063&theme=radical" height="150"/>
-
-</p>
 
 <pre style="margin:0;font-family:inherit;font-size:inherit;white-space:pre-wrap;line-height:1.6;">
 <span style="color:#e6edf3;">gokul@linux:~/work$</span> cat ~/contact.txt
