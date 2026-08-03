@@ -1,10 +1,25 @@
-# 👋 Hi, I'm Gokul
+# Gokul
 
-## 🛠 Tech Stack
+**Computer Science Student | Systems Programmer | Backend Developer**
+
+I build low-level systems software, developer tooling, and distributed backends. My work spans C, C++, Go, Java, and Python — from keystroke-level simulation to congestion-control research.
+
+---
+
+## About Me
+
+- Third-year **B.Tech Computer Science** student
+- Focused on **systems programming, backend development, and networking**
+- Currently exploring **blockchain, distributed systems, and compiler tooling**
+- Passionate about engineering efficient, well-architected software and solving real-world problems
+
+---
+
+## Tech Stack
 
 <p align="center">
 
-<!-- Programming Languages -->
+<!-- Languages -->
 <img src="https://skillicons.dev/icons?i=c,cpp,golang,java,python,javascript" />
 <br>
 
@@ -12,59 +27,39 @@
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" height="48" width="48" />
 <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" height="48" />
-
 <br>
 
 <!-- Tools & Platforms -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
 
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Featured Projects
 
-- 🎓 Third-year **B.Tech Computer Science student**
-- 💻 Interested in **AI, Web Development, and Networking**
-- 🌱 Currently learning **Blockchain and Backend Development**
-- 🚀 Passionate about building impactful projects and solving real-world problems
-- 📫 Reach me at: **gokulrajeshkumar1063@gmail.com**
-
----
-
-## 🚀 Projects
-
-- 🔗 **Micro**  
-  https://github.com/gokul1063/micro  
-  A systems-focused project exploring low-level programming concepts and efficient software design.
-
-- 🔗 **Physics Simulations**  
-  https://github.com/gokul1063/Phy_simulations  
-  A collection of physics simulations built to visualize and experiment with different physical systems programmatically.
-
-- 🔗 **Mechanical Keyboard Simulator**  
-  https://github.com/gokul1063/mechanicalKeyboard  
-  A simulation project that models mechanical keyboard behavior and key interactions.
-
-- 🔗 **UUI Snowflake**  
-  https://github.com/gokul1063/uui-snoflake  
-  A distributed unique ID generation system inspired by Snowflake-style ID generation algorithms.
+| Project | Description | Language |
+| --- | --- | --- |
+| [Gcode](https://github.com/gokul1063/Gcode) | Modular AI coding assistant in Go with vim editing, LSP, MCP integration, and multi-provider routing | Go |
+| [java-server](https://github.com/gokul1063/java-server) | Three-tier video streaming system with proxy caching and TCP congestion control (AIMD, RTT estimation, socket programming) | Java |
+| [micro](https://github.com/gokul1063/micro) | Systems-focused project exploring low-level programming and efficient software design | C |
+| [hotreload](https://github.com/gokul1063/hotreload) | CLI tool that watches source files and automatically rebuilds and restarts your server | Go |
+| [gitCloner](https://github.com/gokul1063/gitCloner) | CLI tool that analyzes, replays, and reconstructs the complete history of a Git repository | Go |
+| [uuid-ts](https://github.com/gokul1063/uuid-ts) | Production-grade, dependency-free Snowflake ID generator for distributed systems | TypeScript |
+| [mechanicalKeyboard](https://github.com/gokul1063/mechanicalKeyboard) | Global keystroke hook that plays mechanical key sounds asynchronously | C |
+| [Phy_simulations](https://github.com/gokul1063/Phy_simulations) | Physics simulations for visualizing and experimenting with physical systems | Python |
+| [Leetcode_Solutions](https://github.com/gokul1063/Leetcode_Solutions) | Collection of LeetCode solutions for coding interview preparation | C++ |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=gokul1063&show_icons=true&theme=radical" height="150"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul1063&layout=compact&theme=radical" height="150"/>
 
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -74,26 +69,12 @@
 
 ---
 
-## 💡 Dev Quote
+## Get In Touch
 
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</p>
+- **Email:** gokulrajeshkumar1063@gmail.com
+- **Portfolio:** [portfolio-gokul.netlify.app](https://portfolio-gokul.netlify.app/)
+- **LinkedIn:** [linkedin.com/in/gokulrajeshkumar1063](https://www.linkedin.com/in/gokulrajeshkumar1063/)
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/gokulrajeshkumar1063/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
-</a>
-
-<a href="https://portfolio-gokul.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge"/>
-</a>
-
-</p>
+<sub>This README is kept intentionally clean. No emojis, no noise — just the work.</sub>
