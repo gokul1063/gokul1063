@@ -20,7 +20,13 @@
 <span style="color:#58a6ff;">gokul</span>
 
 <span style="color:#e6edf3;">gokul@linux:~/work$</span> cat ~/about.txt
-<span style="color:#58a6ff;">Third-year <span style="color:#e6edf3;">B.Tech Computer Science</span> student who prefers going deep — systems programming in <span style="color:#e6edf3;">C/C++</span>, backend services in <span style="color:#e6edf3;">Go</span> and <span style="color:#e6edf3;">Java</span>, and developer tooling. Linux daily driver, TUI over GUI. When the terminal is closed, I am reading manhwa and web novels.</span>
+<span style="color:#58a6ff;"># ~/about.txt</span>
+<span style="color:#e6edf3;">name:</span><span style="color:#58a6ff;">      gokul</span>
+<span style="color:#e6edf3;">role:</span><span style="color:#58a6ff;">      systems &amp; backend engineer</span>
+<span style="color:#e6edf3;">focus:</span><span style="color:#58a6ff;">     systems programming (C/C++), backend (Go, Java), tooling</span>
+<span style="color:#e6edf3;">setup:</span><span style="color:#58a6ff;">     linux daily driver, TUI over GUI</span>
+<span style="color:#e6edf3;">education:</span><span style="color:#58a6ff;"> B.Tech Computer Science, 3rd year</span>
+<span style="color:#e6edf3;">downtime:</span><span style="color:#58a6ff;">  manhwa and web novels</span>
 
 <span style="color:#e6edf3;">gokul@linux:~/work$</span> tree ~/stack
 <span style="color:#58a6ff;">.</span>
@@ -49,15 +55,14 @@
 <span style="color:#58a6ff;">    └── streamlit</span>
 
 <span style="color:#e6edf3;">gokul@linux:~/work$</span> ls ~/projects/
-<a href="https://github.com/gokul1063/Gcode" style="color:#e6edf3;">Gcode/</a>                <span style="color:#58a6ff;">AI coding assistant with vim, LSP and MCP          (Go)</span>
-<a href="https://github.com/gokul1063/java-server" style="color:#e6edf3;">java-server/</a>          <span style="color:#58a6ff;">video streaming, proxy caching, TCP congestion       (Java)</span>
-<a href="https://github.com/gokul1063/hotreload" style="color:#e6edf3;">hotreload/</a>            <span style="color:#58a6ff;">watch files, rebuild + restart your server           (Go)</span>
-<a href="https://github.com/gokul1063/micro" style="color:#e6edf3;">micro/</a>                <span style="color:#58a6ff;">low-level systems experiments                        (C)</span>
-<a href="https://github.com/gokul1063/mechanicalKeyboard" style="color:#e6edf3;">mechanicalKeyboard/</a>   <span style="color:#58a6ff;">global keystroke sound simulation                   (C)</span>
-<a href="https://github.com/gokul1063/uuid-ts" style="color:#e6edf3;">uuid-ts/</a>              <span style="color:#58a6ff;">snowflake ID generator for distributed systems       (TypeScript)</span>
-<a href="https://github.com/gokul1063/gitCloner" style="color:#e6edf3;">gitCloner/</a>            <span style="color:#58a6ff;">git history analyzer, rebuild a repo commit-by-commit (Go)</span>
-<a href="https://github.com/gokul1063/Leetcode_Solutions" style="color:#e6edf3;">Leetcode_Solutions/</a>   <span style="color:#58a6ff;">competitive programming solutions                     (C++)</span>
-</pre>
+<a href="https://github.com/gokul1063/Gcode" style="color:#e6edf3;">Gcode/</a><span style="color:#58a6ff;">               AI coding assistant with vim, LSP and MCP             (Go)</span>
+<a href="https://github.com/gokul1063/java-server" style="color:#e6edf3;">java-server/</a><span style="color:#58a6ff;">         video streaming, proxy caching, TCP congestion        (Java)</span>
+<a href="https://github.com/gokul1063/hotreload" style="color:#e6edf3;">hotreload/</a><span style="color:#58a6ff;">           watch files, rebuild + restart your server            (Go)</span>
+<a href="https://github.com/gokul1063/micro" style="color:#e6edf3;">micro/</a><span style="color:#58a6ff;">               low-level systems experiments                         (C)</span>
+<a href="https://github.com/gokul1063/mechanicalKeyboard" style="color:#e6edf3;">mechanicalKeyboard/</a><span style="color:#58a6ff;">  global keystroke sound simulation                     (C)</span>
+<a href="https://github.com/gokul1063/uuid-ts" style="color:#e6edf3;">uuid-ts/</a><span style="color:#58a6ff;">             snowflake ID generator for distributed systems        (TypeScript)</span>
+<a href="https://github.com/gokul1063/gitCloner" style="color:#e6edf3;">gitCloner/</a><span style="color:#58a6ff;">           git history analyzer, rebuild a repo commit-by-commit (Go)</span>
+<a href="https://github.com/gokul1063/Leetcode_Solutions" style="color:#e6edf3;">Leetcode_Solutions/</a><span style="color:#58a6ff;">  competitive programming solutions                     (C++)</span></pre>
 
 <pre style="margin:0;font-family:inherit;font-size:inherit;white-space:pre-wrap;line-height:1.6;">
 <span style="color:#e6edf3;">gokul@linux:~/work$</span> cat ~/currently.txt
