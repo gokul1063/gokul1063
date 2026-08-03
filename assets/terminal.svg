@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="200" viewBox="0 0 620 200" role="img" aria-label="terminal">
+  <defs>
+    <style>
+      .term { font-family: "JetBrains Mono", "Fira Code", "SFMono-Regular", Consolas, monospace; }
+      .p    { fill: #3fb950; }
+      .c    { fill: #c9d1d9; }
+      .o    { fill: #8b949e; }
+      .ok   { fill: #3fb950; }
+      .acc  { fill: #58a6ff; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="620" height="200" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <rect x="0" y="0" width="620" height="26" rx="8" fill="#161b22"/>
+  <rect x="0" y="13" width="620" height="13" fill="#161b22"/>
+  <circle cx="17" cy="13" r="5" fill="#ff5f56"/>
+  <circle cx="36" cy="13" r="5" fill="#ffbd2e"/>
+  <circle cx="55" cy="13" r="5" fill="#27c93f"/>
+  <text x="70" y="17" class="term o" font-size="12">gokul@linux: ~</text>
+
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.03;0.04;0.94;1" dur="14s" repeatCount="indefinite"/>
+    <text x="16" y="48" class="term p" font-size="14">gokul@linux:~/work$</text>
+    <text x="188" y="48" class="term c" font-size="14">whoami</text>
+  </g>
+
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.10;0.11;0.94;1" dur="14s" repeatCount="indefinite"/>
+    <text x="16" y="72" class="term o" font-size="14">gokul</text>
+  </g>
+
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.19;0.20;0.94;1" dur="14s" repeatCount="indefinite"/>
+    <text x="16" y="96" class="term p" font-size="14">gokul@linux:~/work$</text>
+    <text x="188" y="96" class="term c" font-size="14">go build -o server ./cmd</text>
+  </g>
+
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.27;0.28;0.94;1" dur="14s" repeatCount="indefinite"/>
+    <text x="16" y="120" class="term ok" font-size="14">[OK] compiled in 0.41s</text>
+  </g>
+
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.36;0.37;0.94;1" dur="14s" repeatCount="indefinite"/>
+    <text x="16" y="144" class="term p" font-size="14">gokul@linux:~/work$</text>
+    <text x="188" y="144" class="term c" font-size="14">cat profile.txt</text>
+  </g>
+
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.45;0.46;0.94;1" dur="14s" repeatCount="indefinite"/>
+    <text x="16" y="168" class="term acc" font-size="14" font-weight="bold">Systems &amp; Backend Engineer</text>
+  </g>
+
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.54;0.55;0.94;1" dur="14s" repeatCount="indefinite"/>
+    <text x="16" y="192" class="term c" font-size="14">█
+      <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" dur="1.2s" repeatCount="indefinite" begin="7.6s"/>
+    </text>
+  </g>
+</svg>

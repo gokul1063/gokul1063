@@ -1,80 +1,80 @@
-# Gokul
+```
+   __________  __ ____  ____ 
+  / ____/ __ \/ //_/ / / / / 
+ / / __/ / / / ,< / / / / /  
+/ /_/ / /_/ / /| / /_/ / /___
+\____/\____/_/ |_\____/_____/
+                             
+```
 
-**Computer Science Student | Systems Programmer | Backend Developer**
+**Gokul** — Systems & Backend Engineer
 
-I build low-level systems software, developer tooling, and distributed backends. My work spans C, C++, Go, Java, and Python — from keystroke-level simulation to congestion-control research.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-gokul.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulrajeshkumar1063/)
+[![Email](https://img.shields.io/badge/Email-23272D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulrajeshkumar1063@gmail.com)
+
+![terminal](assets/terminal.svg)
 
 ---
 
-## About Me
+## About
 
-- Third-year **B.Tech Computer Science** student
-- Focused on **systems programming, backend development, and networking**
-- Currently exploring **blockchain, distributed systems, and compiler tooling**
-- Passionate about engineering efficient, well-architected software and solving real-world problems
+Third-year B.Tech Computer Science student who prefers going deep — systems programming in **C/C++**, backend services in **Go** and **Java**, and developer tooling. Linux daily driver, TUI over GUI. When the terminal is closed, I'm reading manhwa and web novels.
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=c,cpp,golang,java,python,javascript" />
-<br>
-
-<!-- AI / ML -->
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" height="48" width="48" />
-<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" height="48" />
-<br>
-
-<!-- Tools & Platforms -->
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
-
-</p>
+| Category  | Stack |
+| ---       | --- |
+| Languages | C, C++, Go, Java, Python, TypeScript, JavaScript |
+| Backend   | Go (Cobra, stdlib), Express.js, Spring Boot |
+| Frontend  | React, TypeScript |
+| Systems   | Linux, TUI/CLI tooling, Git, GitHub Actions |
+| AI/ML     | TensorFlow, PyTorch, scikit-learn, Streamlit |
 
 ---
 
-## Featured Projects
+## Projects
 
-| Project | Description | Language |
-| --- | --- | --- |
-| [Gcode](https://github.com/gokul1063/Gcode) | Modular AI coding assistant in Go with vim editing, LSP, MCP integration, and multi-provider routing | Go |
-| [java-server](https://github.com/gokul1063/java-server) | Three-tier video streaming system with proxy caching and TCP congestion control (AIMD, RTT estimation, socket programming) | Java |
-| [micro](https://github.com/gokul1063/micro) | Systems-focused project exploring low-level programming and efficient software design | C |
-| [hotreload](https://github.com/gokul1063/hotreload) | CLI tool that watches source files and automatically rebuilds and restarts your server | Go |
-| [gitCloner](https://github.com/gokul1063/gitCloner) | CLI tool that analyzes, replays, and reconstructs the complete history of a Git repository | Go |
-| [uuid-ts](https://github.com/gokul1063/uuid-ts) | Production-grade, dependency-free Snowflake ID generator for distributed systems | TypeScript |
-| [mechanicalKeyboard](https://github.com/gokul1063/mechanicalKeyboard) | Global keystroke hook that plays mechanical key sounds asynchronously | C |
-| [Phy_simulations](https://github.com/gokul1063/Phy_simulations) | Physics simulations for visualizing and experimenting with physical systems | Python |
-| [Leetcode_Solutions](https://github.com/gokul1063/Leetcode_Solutions) | Collection of LeetCode solutions for coding interview preparation | C++ |
+| Project | Description | Stack |
+| ---     | --- | --- |
+| [Gcode](https://github.com/gokul1063/Gcode) | Modular AI coding assistant with vim editing, LSP and MCP support | Go |
+| [java-server](https://github.com/gokul1063/java-server) | Video streaming platform with proxy caching and TCP congestion control (AIMD) | Java |
+| [hotreload](https://github.com/gokul1063/hotreload) | CLI that watches source files and rebuilds + restarts your server | Go |
+| [micro](https://github.com/gokul1063/micro) | Low-level systems experiments in C | C |
+| [mechanicalKeyboard](https://github.com/gokul1063/mechanicalKeyboard) | Global keystroke hook that plays mechanical key sounds | C |
+| [uuid-ts](https://github.com/gokul1063/uuid-ts) | Dependency-free Snowflake ID generator for distributed systems | TypeScript |
+| [gitCloner](https://github.com/gokul1063/gitCloner) | Git history analyzer that reconstructs a repo commit-by-commit | Go |
+| [Leetcode_Solutions](https://github.com/gokul1063/Leetcode_Solutions) | Competitive programming solutions | C++ |
 
 ---
 
-## GitHub Stats
+## Currently
+
+- Building distributed systems and backend services
+- Exploring blockchain, LSPs and compiler tooling
+- Writing TUIs instead of websites
+
+---
+
+## Beyond the Code
+
+- Reading web novels and manhwa
+- Tuning Linux and collecting ASCII art
+- Going down rabbit holes about how things work underneath
+
+---
+
+## Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gokul1063&show_icons=true&theme=radical" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul1063&layout=compact&theme=radical" height="150"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=gokul1063&theme=radical" />
+<img src="https://streak-stats.demolab.com/?user=gokul1063&theme=radical" height="150"/>
 
 </p>
 
 ---
 
-## Get In Touch
-
-- **Email:** gokulrajeshkumar1063@gmail.com
-- **Portfolio:** [portfolio-gokul.netlify.app](https://portfolio-gokul.netlify.app/)
-- **LinkedIn:** [linkedin.com/in/gokulrajeshkumar1063](https://www.linkedin.com/in/gokulrajeshkumar1063/)
-
----
-
-<sub>This README is kept intentionally clean. No emojis, no noise — just the work.</sub>
+*Minimal. Fast. Unix-pilled.*
