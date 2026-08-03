@@ -9,8 +9,6 @@
                              
 </pre>
 
-<img src="assets/terminal.svg" alt="terminal" width="640"/>
-
 </div>
 
 <div style="background-color:#0d1117;border:1px solid #30363d;border-radius:8px;padding:18px 22px;font-family:'JetBrains Mono','Fira Code',monospace;font-size:16px;color:#e6edf3;overflow:hidden;">
